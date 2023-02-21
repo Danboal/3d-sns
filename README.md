@@ -84,7 +84,9 @@
 - [ ] UnityプロジェクトをiOS版ビルド
 - [ ] Swiftプロジェクト作成SwiftUI設置
 - [ ] Unity - Swift - SwiftUI連携
-- [ ] 同期テスト
+- [ ] １。同期テスト　
+- [ ] ２。本ちゃん３Dデータ投入
+- [ ] １．２。繰り返し
 
 ## Phase2
 
